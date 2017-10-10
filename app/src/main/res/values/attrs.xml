@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ShadowLayout">
+        <attr name="fengan_shadowed" format="boolean"/>
+        <attr name="fengan_shadow_distance" format="dimension"/>
+        <attr name="fengan_shadow_angle" format="integer"/>
+        <attr name="fengan_shadow_radius" format="dimension"/>
+        <attr name="fengan_shadow_color" format="color"/>
+    </declare-styleable>
+
+</resources>
