@@ -9,7 +9,7 @@ Custom shading color library
 
 效果图
 
-![效果](http://img.blog.csdn.net/20171010160954830?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZmVuZ2FuaXQ=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![效果](https://fenganblogimgs.oss-cn-beijing.aliyuncs.com/blog/20171010160954830.png)
 
 布局文件
 
